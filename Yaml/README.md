@@ -1,1 +1,1 @@
-# ArgoDC Demo
+# ArgoCD Demo
